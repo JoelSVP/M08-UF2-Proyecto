@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "464664535435",
+    "project_id": "m08-uf2-proyecto",
+    "storage_bucket": "m08-uf2-proyecto.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:464664535435:android:d078cc2f0f2a7771ea8f8e",
+        "android_client_info": {
+          "package_name": "com.example.m08_uf2_proyecto_fatimazahrafirdawsi_joelvinansaca"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_Ry8Hgh4zdHCnMhNEsK2PNzqZd6EzGnM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
